@@ -1,0 +1,8 @@
+socks
+requests
+flask
+Flask-SQLAlchemy
+Flask-Pushjack
+Flask-APScheduler
+PySocks
+beautifulsoup4
